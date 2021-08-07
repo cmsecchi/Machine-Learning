@@ -8,3 +8,5 @@ Algoritmos nivel begginer de Machine Learning.
     - Clústering Jerárquico
     
     - Kmeans
+    
+    - SVM
